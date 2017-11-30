@@ -1,0 +1,2 @@
+# NoQuarterBillDroidManual
+ROOTlinux directions
